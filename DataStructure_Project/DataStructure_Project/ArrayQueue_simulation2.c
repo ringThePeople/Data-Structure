@@ -159,7 +159,7 @@ void displayArrayQueue(ArrayQueue *pQueue)
 
 //line 1 : half of input customers(raising fractions not lower than 0.5 to a unit)
 //line 2 : rest of customers
-//to each lines, do simulation same as Queue simulation1 
+//to each line, do simulation same as Queue simulation1 
 
 //It can be implemented with two ideas
 //idea 1 : reduce all of customers every unit
@@ -203,6 +203,7 @@ void QueueSimulation2(ArrayQueue *pQueue1, ArrayQueue *pQueue2)
 }
 
 
+//Test each function
 int main()
 {
 	ArrayQueue* QueueSimu_line1 = NULL;
