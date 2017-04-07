@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Fibonacci_Numbers_byTwokinds.c" />
+    <ClCompile Include="Decimal_to_Binary.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{686E98B8-38F5-4B20-8A49-ABE3E634E71A}</ProjectGuid>
