@@ -1,4 +1,4 @@
-//KUPT Week7 'inorder operation(two types) in BST'
+//KUPT Week8 'inorder operation(two types) in BST'
 
 #include <stdlib.h>
 #include <stdio.h>

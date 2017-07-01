@@ -19,8 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KUPT Week7 inorder operation%28two types%29 in BST.c" />
-    <ClCompile Include="task.cpp" />
     <ClCompile Include="tree_with.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
