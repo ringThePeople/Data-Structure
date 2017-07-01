@@ -21,10 +21,10 @@
     <ClCompile Include="tree_with.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week2_ArrayList.cpp">
+    <ClCompile Include="task.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="task.cpp">
+    <ClCompile Include="KUPT Week2_ArrayList.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
