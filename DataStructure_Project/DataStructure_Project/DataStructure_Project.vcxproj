@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="inorder_by_iteration.cpp" />
-    <ClCompile Include="KUPT Week6_Linked Queue.c" />
+    <ClCompile Include="KUPT Week7 inorder operation%28two types%29 in BST.c" />
     <ClCompile Include="task.cpp" />
     <ClCompile Include="tree_with.cpp" />
   </ItemGroup>

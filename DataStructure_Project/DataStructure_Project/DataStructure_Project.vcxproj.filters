@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="inorder_by_iteration.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="tree_with.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="task.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="KUPT Week6_Linked Queue.c">
+    <ClCompile Include="KUPT Week7 inorder operation%28two types%29 in BST.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
