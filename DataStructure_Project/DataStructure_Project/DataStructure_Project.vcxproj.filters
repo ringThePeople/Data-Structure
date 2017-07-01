@@ -24,7 +24,7 @@
     <ClCompile Include="task.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="KUPT Week3_ Array Queue.c">
+    <ClCompile Include="KUPT Week4_Array Stack.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

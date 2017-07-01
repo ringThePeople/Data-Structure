@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="inorder_by_iteration.cpp" />
-    <ClCompile Include="KUPT Week3_ Array Queue.c" />
+    <ClCompile Include="KUPT Week4_Array Stack.c" />
     <ClCompile Include="task.cpp" />
     <ClCompile Include="tree_with.cpp" />
   </ItemGroup>
