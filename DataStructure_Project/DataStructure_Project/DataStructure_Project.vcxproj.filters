@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KUPT Week7_Binary Search Tree.c">
+    <ClCompile Include="KUPT Week9_Balanced Tree Check%28two types%29.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
