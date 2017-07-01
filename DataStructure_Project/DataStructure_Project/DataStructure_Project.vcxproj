@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HeapADT.cpp" />
+    <ClCompile Include="inorder_by_iteration.cpp" />
+    <ClCompile Include="task.cpp" />
+    <ClCompile Include="tree_with.cpp" />
+    <ClCompile Include="Week2_ArrayList.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{686E98B8-38F5-4B20-8A49-ABE3E634E71A}</ProjectGuid>
